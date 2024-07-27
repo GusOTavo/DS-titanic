@@ -1,4 +1,4 @@
-# DS-titanic
+# Acidente do Titanic
 Análise de Insights de um dataset sobre o acidente com o RMS Titanic.
 
 ## Ferramentas e Linguagens utilizadas:
